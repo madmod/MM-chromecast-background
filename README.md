@@ -9,9 +9,9 @@ To use this module, add it to the modules array in the `config/config.js` file:
 modules: [
 	{
 		module: 'chromecast-background',
-		position: 'background',	// This can be any of the regions.
+		position: 'fullscreen',	// This can be any of the regions.
 		config: {
-			// See 'Configuration options' for more information.
+			wrapper: 'fullscreen'
 		}
 	}
 ]
