@@ -1,4 +1,4 @@
-# Module: chromecast-backgraound
+# Module: chromecast-background
 This is a `chromecast-background` module for MagicMirror.
 This module displays the Chromecast Backdrop as a background.
 
