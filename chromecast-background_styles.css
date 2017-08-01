@@ -1,0 +1,15 @@
+
+.chromecast-background > .module-content {
+}
+
+.chromecast-background-container {
+}
+
+.chromecast-background {
+  background: rgba(0, 0, 0, 0);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  border: 0;
+}
+
